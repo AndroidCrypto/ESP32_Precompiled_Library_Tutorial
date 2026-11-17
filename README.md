@@ -4,6 +4,7 @@ This repository accompanies the article **How to Create a Precompiled Library wi
 
 The tutorial is available here as [Markdown Version](ESP32_Precompiled_Library_Tutorial_EN.md).
 
+The sketches [Esp32_S3_Library_Plain_v01](Esp32_S3_Library_Plain_v01) and [Esp32_C6_Library_Plain_v01](Esp32_C6_Library_Plain_v01) contain the SECRETMaths-Library in plain text.
 
 ## Development Environment (Arduino)
 ````plaintext

@@ -8,7 +8,10 @@ The sketches [Esp32_S3_Library_Plain_v01](Esp32_S3_Library_Plain_v01) and [Esp32
 
 For testing the compiled library use the sketches [Esp32_S3_Library_Compiled_v01](Esp32_S3_Library_Compiled_v01) and [Esp32_C6_Library_Compiled_v01](Esp32_C6_Library_Compiled_v01)
 
-The compiled (binary) library is [here]() for reference.
+The compiled (binary) library is [here](compiled_library) for reference. There are 3 zip-files:
+- SECRETMaths_s3.zip is running on an ESP32-S3 only
+- SECRETMaths_s3_c6.zip is running on ESP32-C6 and ESP32-S3
+- SECRETMaths_s3_c6_c3.zip is running on ESP32-C3, ESP32-C6 and ESP32-S3
 
 ## Development Environment (Arduino)
 ````plaintext

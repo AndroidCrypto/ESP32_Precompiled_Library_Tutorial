@@ -2,6 +2,7 @@
 
 This repository accompanies the article **How to Create a Precompiled Library with the ESP32 (Expert Level)** published here: <soon>
 
+The tutorial is available here as [Markdown Version](ESP32_Precompiled_Library_Tutorial_EN.md).
 
 
 ## Development Environment (Arduino)

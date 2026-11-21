@@ -1,6 +1,6 @@
 # ESP32 Precompiled Library Tutorial
 
-This repository accompanies the article **How to Create a Precompiled Library with the ESP32 (Expert Level)** published here: <soon>
+This repository accompanies the article **How to Create a Precompiled Library with the ESP32 (Expert Level)** published here: https://medium.com/@androidcrypto/how-to-create-a-precompiled-library-with-the-esp32-expert-level-b7466a508fd5?sharedUserId=androidcrypto
 
 The tutorial is available here as [Markdown Version](ESP32_Precompiled_Library_Tutorial_EN.md).
 
